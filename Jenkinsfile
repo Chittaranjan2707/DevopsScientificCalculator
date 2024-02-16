@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_REGISTRY_CREDENTIALS = 'DockerHubCred'
-        DOCKER_IMAGE_NAME = 'aryanpatel111/spe_mini_project'
+        DOCKER_IMAGE_NAME = 'chittaranjan27/devops_scientific_calculator'
         LANG = 'en_US.UTF-8'
 
     }
@@ -17,7 +17,7 @@ pipeline {
                     doGenerateSubmoduleConfigurations: false,
                     extensions: [],
                     submoduleCfg: [],
-                    userRemoteConfigs: [[url: 'https://github.com/AryanPatel111/SPE_MINI_PROJECT.git']]
+                    userRemoteConfigs: [[url: 'https://github.com/Chittaranjan2707/DevopsScientificCalculator.git']]
                 ])
             }
         }
