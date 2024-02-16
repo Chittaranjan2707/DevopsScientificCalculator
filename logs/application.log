@@ -1,0 +1,12 @@
+00:19:51.145 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many DevOp tools behind it
+00:20:00.342 [main] INFO  org.example.Main - Executing squareRoot function!
+00:25:30.864 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many DevOp tools behind it
+00:25:43.318 [main] INFO  org.example.Main - Executing squareRoot function!
+00:28:12.584 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many DevOp tools behind it
+00:28:33.450 [main] INFO  org.example.Main - Executing squareRoot function!
+00:28:33.452 [main] INFO  org.example.Main - Executing squareRoot function!
+00:28:33.453 [main] INFO  org.example.Main - Executing Factorial function!
+00:28:33.453 [main] INFO  org.example.Main - Executing Power function!
+00:28:33.453 [main] INFO  org.example.Main - Executing Power function!
+00:28:33.454 [main] INFO  org.example.Main - Executing naturalLog function!
+00:28:33.454 [main] INFO  org.example.Main - Executing naturalLog function!
